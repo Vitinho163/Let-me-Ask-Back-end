@@ -8,6 +8,13 @@
       "when": 1751939233409,
       "tag": "0000_little_korg",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752003292886,
+      "tag": "0001_nasty_mole_man",
+      "breakpoints": true
     }
   ]
 }
