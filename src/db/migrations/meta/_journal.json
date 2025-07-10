@@ -15,6 +15,13 @@
       "when": 1752003292886,
       "tag": "0001_nasty_mole_man",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752090197718,
+      "tag": "0002_brief_northstar",
+      "breakpoints": true
     }
   ]
 }
